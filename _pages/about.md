@@ -31,8 +31,8 @@ Feel free to reach out at [xiangyuma2028@u.northwestern.edu] / [xiangyuma808@gma
 - *2016.09 - 2020.06*, Bachelor in Material processing and Control Engineering, Huazhong University of Science and Technology, Wuhan, Hubei, People's republic of China.
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 Xiangyu graduate from Huazhong university of science and technology with a master degree in Material Science!
-- *2020.06*: &nbsp;🎉🎉 Xiangyu graduate from Huazhong university of science and technology with a bachelor degree in Material Processing and Control Engineering!
+- *2023.06*: &nbsp;🎉🎉 Xiangyu graduated from Huazhong university of science and technology with a master degree in Material Science!
+- *2020.06*: &nbsp;🎉🎉 Xiangyu graduated from Huazhong university of science and technology with a bachelor degree in Material Processing and Control Engineering!
 
 # 📝 Publications 
 
