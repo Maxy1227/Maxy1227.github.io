@@ -36,19 +36,14 @@ Feel free to reach out at [xiangyuma2028@u.northwestern.edu] / [xiangyuma808@gma
 
 # 📝 Publications 
 
-[1] B. Peng‡, Z. Liu‡, X. Ma‡, E.H. Sargent et al. “A cation-functionalized layer for ethylene electrosynthesis via CO reduction paired with H2 oxidation in a pure-water-fed solid-state electrolyser.” Nature Energy 11, 689–698 (2026)
-
-[2] A. D. Pournara, Y. Liu, T. S. Ie, X. Ma, M.G. Kanatzidis et al. “Unconventional mechanism in the selective removal of lead and cadmium from acidic media using Nax+2ySn4−yS8·3H2O (NMS-7).” Journal of the American Chemical Society 148(5), 4976–4988 (2026). 
-
-[3] Y. Dun‡, X. Ma‡, B. Shan, et al. “Nanoporous CeO2-decorated Cu–SmMn2O5 composite mullite oxide catalyst for toluene oxidation.” ACS Applied Nano Materials 7(2), 2010–2020 (2024).
-
-[4] X. Ma, H. Xu, B. Shan, et al. “Durable PdNi/Al2O3 catalyst with PdO–NiO and PdO–NiAl2O4 dual interfaces for methane combustion.” ACS EST Engineering 3(3), 349–359 (2023). 
-
-[5] T. Tang, X. Ma, B. Shan, et al. “Breaking the activity–stability trade-off of Au catalysts by depth-controlled nanotrap.” Journal of Catalysis 423, 145–153 (2023). 
-
-[6] X. Ma, Y. Tang, B. Shan, et al. “A-site cation exfoliation of amorphous SmMnxOy oxides for low-temperature propane oxidation.” Journal of Catalysis 409, 59–69 (2022). 
-
-[7] Y. Chen, X. Ma, B. Shan, et al. “Selective catalytic oxidation of ammonia over AMn2O5 (A = Sm, Y, Gd) and reaction selectivity promotion through Nb decoration.” Journal of Catalysis 402, 10–21 (2021). 
+1. B. Peng‡, Z. Liu‡, X. Ma‡, E.H. Sargent et al. “A cation-functionalized layer for ethylene electrosynthesis via CO reduction paired with H2 oxidation in a pure-water-fed solid-state electrolyser”. Nature Energy 11, 689–698 (2026)
+2. Jianan Erick Huang, Chengqian Wu, … Xiangyu Ma, … E.H. Sargent et al, "A High-Purity Ethylene Epoxide Stream Produced Using a Supported Electrocatalyst". J. Am. Chem. Soc., 2026, 148 (14), 14779–14789
+3. A. D. Pournara, Y. Liu, T. S. Ie, X. Ma, M.G. Kanatzidis et al. “Unconventional mechanism in the selective removal of lead and cadmium from acidic media using Nax+2ySn4−yS8·3H2O (NMS-7)”. Journal of the American Chemical Society 148(5), 4976–4988 (2026).
+4. Y. Dun‡, X. Ma‡, B. Shan, et al. “Nanoporous CeO2-decorated Cu–SmMn2O5 composite mullite oxide catalyst for toluene oxidation”. ACS Applied Nano Materials 7(2), 2010–2020 (2024).
+5. X. Ma, H. Xu, B. Shan, et al. “Durable PdNi/Al2O3 catalyst with PdO–NiO and PdO–NiAl2O4 dual interfaces for methane combustion”. ACS EST Engineering 3(3), 349–359 (2023).
+6. T. Tang, X. Ma, B. Shan, et al. “Breaking the activity–stability trade-off of Au catalysts by depth-controlled nanotrap”. Journal of Catalysis 423, 145–153 (2023).
+7. X. Ma, Y. Tang, B. Shan, et al. “A-site cation exfoliation of amorphous SmMnxOy oxides for low-temperature propane oxidation”. Journal of Catalysis 409, 59–69 (2022).
+8. Y. Chen, X. Ma, B. Shan, et al. “Selective catalytic oxidation of ammonia over AMn2O5 (A = Sm, Y, Gd) and reaction selectivity promotion through Nb decoration”. Journal of Catalysis 402, 10–21 (2021). 
 
 
 # 🎖 Honors and Awards
