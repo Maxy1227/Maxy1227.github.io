@@ -6,6 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+url                      : "https://maxy1227.github.io"
+baseurl                  : ""
 title                    : "Xiangyu Ma"
 description              : "Chemistry PhD in Northwestern University. Kanatzidis and Sargent lab"
 repository               : "Maxy1227.github.io"
