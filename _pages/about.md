@@ -17,43 +17,51 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi I am Xiangyu Ma. I am a PhD candidate in Chemistry at Northwestern University with Prof. Ted Sargent and Prof. Mercouri Kanatzidis.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest sit at the intersection of catalytic conversion of waste into energy and the data infrastructure that makes high-throughput experimentation possible.
+
+Before Northwestern I completed an M.S. in Materials Science and a B.Eng. in Materials Processing and Control Engineering at Huazhong University of Science and Technology.
+
+Feel free to reach out at [xiangyuma2028@u.northwestern.edu] / [xiangyuma808@gmail.com]
 
 # 📖 Educations
-- *2023.09 - now*, Ph.D. in Chemistry,  Northwestern University, Evanston, Illinois, United States of America.
-- *2020.06 - 2023.06, Master in Materials Science, Huazhong University of Science and Technology, Wuhan, Hubei, People's republic of China.
-- *2016.09 - 2020.06, Bachelor in Material processing and Control Engineering, Huazhong University of Science and Technology, Wuhan, Hubei, People's republic of China.
+- 2023.09 - now, Ph.D. in Chemistry,  Northwestern University, Evanston, Illinois, United States of America.
+- 2020.06 - 2023.06, Master in Material Science, Huazhong University of Science and Technology, Wuhan, Hubei, People's republic of China.
+- 2016.09 - 2020.06, Bachelor in Material processing and Control Engineering, Huazhong University of Science and Technology, Wuhan, Hubei, People's republic of China.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2023.06: &nbsp;🎉🎉 Xiangyu graduate from Huazhong university of science and technology with a master degree in Material Science!
+- 2020.06: &nbsp;🎉🎉 Xiangyu graduate from Huazhong university of science and technology with a bachelor degree in Material Processing and Control Engineering!
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[1] B. Peng‡, Z. Liu‡, X. Ma‡, E.H. Sargent et al. “A cation-functionalized layer for ethylene electrosynthesis via CO reduction paired with H2 oxidation in a pure-water-fed solid-state electrolyser.” Nature Energy 11, 689–698 (2026)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[2] A. D. Pournara, Y. Liu, T. S. Ie, X. Ma, M.G. Kanatzidis et al. “Unconventional mechanism in the selective removal of lead and cadmium from acidic media using Nax+2ySn4−yS8·3H2O (NMS-7).” Journal of the American Chemical Society 148(5), 4976–4988 (2026). 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[3] Y. Dun‡, X. Ma‡, B. Shan, et al. “Nanoporous CeO2-decorated Cu–SmMn2O5 composite mullite oxide catalyst for toluene oxidation.” ACS Applied Nano Materials 7(2), 2010–2020 (2024).
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[4] X. Ma, H. Xu, B. Shan, et al. “Durable PdNi/Al2O3 catalyst with PdO–NiO and PdO–NiAl2O4 dual interfaces for methane combustion.” ACS EST Engineering 3(3), 349–359 (2023). 
+
+[5] T. Tang, X. Ma, B. Shan, et al. “Breaking the activity–stability trade-off of Au catalysts by depth-controlled nanotrap.” Journal of Catalysis 423, 145–153 (2023). 
+
+[6] X. Ma, Y. Tang, B. Shan, et al. “A-site cation exfoliation of amorphous SmMnxOy oxides for low-temperature propane oxidation.” Journal of Catalysis 409, 59–69 (2022). 
+
+[7] Y. Chen, X. Ma, B. Shan, et al. “Selective catalytic oxidation of ammonia over AMn2O5 (A = Sm, Y, Gd) and reaction selectivity promotion through Nb decoration.” Journal of Catalysis 402, 10–21 (2021). 
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2024, Hierarchical Materials Cluster Fellowship, Northwestern University
+- 2021, Excellent prize, China College Students’ Innovation Competition, “Rare Earth Catalysts”
+- 2020, Third prize, 6th China College Students 'Internet+' Innovation and Entrepreneurship Competition, “Spatial Atomic Layer Deposition”
 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+/
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 2019.08 - 2019.08, Weichai Power Co., Ltd, China.
