@@ -36,9 +36,6 @@ Feel free to reach out at [xiangyuma2028@u.northwestern.edu] / [xiangyuma808@gma
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [1] B. Peng‡, Z. Liu‡, X. Ma‡, E.H. Sargent et al. “A cation-functionalized layer for ethylene electrosynthesis via CO reduction paired with H2 oxidation in a pure-water-fed solid-state electrolyser.” Nature Energy 11, 689–698 (2026)
 
 [2] A. D. Pournara, Y. Liu, T. S. Ie, X. Ma, M.G. Kanatzidis et al. “Unconventional mechanism in the selective removal of lead and cadmium from acidic media using Nax+2ySn4−yS8·3H2O (NMS-7).” Journal of the American Chemical Society 148(5), 4976–4988 (2026). 
