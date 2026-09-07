@@ -36,7 +36,7 @@ Feel free to reach out at [xiangyuma2028@u.northwestern.edu] / [xiangyuma808@gma
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [1] B. Peng‡, Z. Liu‡, X. Ma‡, E.H. Sargent et al. “A cation-functionalized layer for ethylene electrosynthesis via CO reduction paired with H2 oxidation in a pure-water-fed solid-state electrolyser.” Nature Energy 11, 689–698 (2026)
