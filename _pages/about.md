@@ -26,9 +26,9 @@ Before Northwestern I completed an M.S. in Materials Science and a B.Eng. in Mat
 Feel free to reach out at [xiangyuma2028@u.northwestern.edu] / [xiangyuma808@gmail.com]
 
 # 📖 Educations
-- *2023.09* - now, Ph.D. in Chemistry,  Northwestern University, Evanston, Illinois, United States of America.
-- *2020.06* - 2023.06, Master in Material Science, Huazhong University of Science and Technology, Wuhan, Hubei, People's republic of China.
-- *2016.09* - 2020.06, Bachelor in Material processing and Control Engineering, Huazhong University of Science and Technology, Wuhan, Hubei, People's republic of China.
+- *2023.09 - now*, Ph.D. in Chemistry,  Northwestern University, Evanston, Illinois, United States of America.
+- *2020.06 - 2023.06*, Master in Material Science, Huazhong University of Science and Technology, Wuhan, Hubei, People's republic of China.
+- *2016.09 - 2020.06*, Bachelor in Material processing and Control Engineering, Huazhong University of Science and Technology, Wuhan, Hubei, People's republic of China.
 
 # 🔥 News
 - *2023.06*: &nbsp;🎉🎉 Xiangyu graduate from Huazhong university of science and technology with a master degree in Material Science!
