@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Xiangyu Ma"
-description              : "A happy Chemistry PhD in Northwestern University. Kanatzidis and Sargent"
-repository               : "Maxy1227/xiangyu-ma.github.io"
+description              : "Chemistry PhD in Northwestern University. Kanatzidis and Sargent"
+repository               : "Maxy1227.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiangyu Ma"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Born in Jinan, studey in Wuhan, now in Evanston"
+  bio              : "Born in Jinan, studied in Wuhan, current in Evanston"
   location         : "Evanston, IL, USA"
   employer         :
   pubmed           : 
