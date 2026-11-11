@@ -45,7 +45,7 @@ Feel free to reach out at [xiangyuma2028@u.northwestern.edu] / [xiangyuma808@gma
     -  NH3 selective catalytic oxidation over AMn2O5 (A = Sm, Y, Gd) mullites
     -  Area-selective ALD TiO2 nanotraps for Au catalysts  
 
--  *2016.09 - 2020.06*, Undergraduate Researcher, Department of Materials Science and Engineering, Huazhong University of Science and Technology
+-  *2017.09 - 2019.07*, Undergraduate Researcher, Department of Materials Science and Engineering, Huazhong University of Science and Technology
     -  Machine learning for spark-plasma-sintering optimization of B4C-reinforced titanium composites: Explored the relationship between processing parameters and composite quality, and evaluated potential applications in the aviation industry.
     -  CAE simulation of casting processes: CAE-based casting simulations, analyzing the flow-field and temperature-field distributions of molten metal
 
