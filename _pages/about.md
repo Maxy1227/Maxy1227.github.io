@@ -19,7 +19,7 @@ redirect_from:
 
 Hi I am Xiangyu Ma. I am a PhD candidate in Chemistry at Northwestern University with Prof. Ted Sargent and Prof. Mercouri Kanatzidis.
 
-My research interest sit at the intersection of catalytic conversion of waste into energy and the data infrastructure that makes high-throughput experimentation possible.
+My research sits where catalysis for converting waste carbon into fuels and chemicals meets the data infrastructure and machine learning systems that steer high-throughput experimentation.
 
 Before Northwestern I completed an M.S. in Materials Science and a B.Eng. in Materials Processing and Control Engineering at Huazhong University of Science and Technology.
 
@@ -27,7 +27,7 @@ Feel free to reach out at [xiangyuma2028@u.northwestern.edu] / [xiangyuma808@gma
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D. in Chemistry,  Northwestern University, Evanston, Illinois, United States of America.
-- *2020.06 - 2023.06*, Master in Material Science, Huazhong University of Science and Technology, Wuhan, Hubei, People's republic of China.
+- *2020.09 - 2023.06*, Master in Material Science, Huazhong University of Science and Technology, Wuhan, Hubei, People's republic of China.
 - *2016.09 - 2020.06*, Bachelor in Material processing and Control Engineering, Huazhong University of Science and Technology, Wuhan, Hubei, People's republic of China.
 
 # 🎞️Experiences
@@ -38,14 +38,14 @@ Feel free to reach out at [xiangyuma2028@u.northwestern.edu] / [xiangyuma808@gma
     -  Diluted Cu alloy catalysts for CO-to-ethylene selectivity
     -  Operando synchrotron spectroscopy and TEM for CuO-derived Cu catalysts for CO electrocatalytic reduction
 
--  *2020.06 - 2023.06*, Graduate Researcher — Advisor: Professor Bin Shan and Chun Du, Department of Materials Science and Engineering, Huazhong University of Science and Technology
+-  *2020.08 - 2023.06*, Graduate Researcher — Advisor: Professor Bin Shan and Chun Du, Department of Materials Science and Engineering, Huazhong University of Science and Technology
     -  Low-temperature propane oxidation over amorphous SmMnxOy: explored the reaction mechanism and rate-determining step by in-situ DRIFTS.
     -  Multi-component mullite catalysts for low-temperature oxidation: DFT-calculated oxygen-vacancy energies to guide the design
     -  Durable PdNi/Al2O3 catalyst for methane combustion
     -  NH3 selective catalytic oxidation over AMn2O5 (A = Sm, Y, Gd) mullites
     -  Area-selective ALD TiO2 nanotraps for Au catalysts  
 
--  *2023.09 - now*, Undergraduate Researcher, Department of Materials Science and Engineering, Huazhong University of Science and Technology
+-  *2016.09 - 2020.06*, Undergraduate Researcher, Department of Materials Science and Engineering, Huazhong University of Science and Technology
     -  Machine learning for spark-plasma-sintering optimization of B4C-reinforced titanium composites: Explored the relationship between processing parameters and composite quality, and evaluated potential applications in the aviation industry.
     -  CAE simulation of casting processes: CAE-based casting simulations, analyzing the flow-field and temperature-field distributions of molten metal
 
